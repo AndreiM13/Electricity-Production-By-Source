@@ -1,3 +1,4 @@
 # Electricity_Production_By_Source
 
-this is a project for Data Visualization course made by 4 students from NOVA IMS
+This is a project for Data Visualization course made by 4 students from NOVA IMS.
+We recommend to open the app using Brave or Microsft Edge.
