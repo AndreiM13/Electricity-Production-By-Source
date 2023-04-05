@@ -1,1 +1,1 @@
-web: waitress-serve --call app:create_app
+web: cherryd -c myapp.conf
