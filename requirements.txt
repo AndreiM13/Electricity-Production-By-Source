@@ -6,4 +6,4 @@ pandas
 plotly
 dash_bootstrap_components
 plotly.express
-gunicorn
+gunicorn==20.1.0
