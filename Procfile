@@ -1,1 +1,1 @@
-web: cherryd -c myapp.conf
+web: gunicorn app:server
